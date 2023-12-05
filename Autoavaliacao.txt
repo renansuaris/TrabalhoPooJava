@@ -1,0 +1,34 @@
+Autoavaliação 
+
+1. Modelagem de classes
+
+Na minha opinião consegui atingir os 20 pontos, criando classes objetivas,
+usando herança corretamente, trabalhando bem o encapsulamento, e implementando
+métodos relevantes. 20/20
+
+2. Interface de Usuário
+
+Por mais que a interface tenha sido feita ali mesmo na saída do console,
+acredito que ficou boa e interativa com o usuário, implementando cores e 
+deixando as opções visíveis e com um bom espaçamento. 10/10
+
+3. Funcionalidades relevantes
+
+Aqui com certeza atingi os 30 pontos, gostei da evolução que tive e a medida
+que necessesitava de métodos, ia criando e aplicando e também sempre tratando as
+excessões de maneira adequada. 30/30
+
+4. Persistência de dados
+
+Aqui já ficou desfalcado, tendo em vista que o meu programa não possui uma 
+ligação com banco de dados ou algo do tipo, consegui armazenar os produtos
+em listas, sim, porém recuperá-los depois de deletá-los ainda não é possível.
+Mas eu pretendo dar continuidade a medida que vou aprendendo, banco de dados
+GUI com java swing e por aí vai. 5/10 é justo.
+
+5. Boas práticas de programação
+
+Também gostei daqui, sempre fazendo boas práticas, buscando deixar o código
+limpo, claro e identado, aplicando os conceitos aprendidos e tratando as 
+exceções de forma intuitiva e clara, facilitando futuras modificações no projeto
+e também na parte da manutenção (que é indispensável). 30/30
