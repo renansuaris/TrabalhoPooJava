@@ -31,4 +31,4 @@ GUI com java swing e por aí vai. 5/10 é justo.
 Também gostei daqui, sempre fazendo boas práticas, buscando deixar o código
 limpo, claro e identado, aplicando os conceitos aprendidos e tratando as 
 exceções de forma intuitiva e clara, facilitando futuras modificações no projeto
-e também na parte da manutenção (que é indispensável). 30/30
+e também na parte da manutenção (que é indispensável). 25/30
